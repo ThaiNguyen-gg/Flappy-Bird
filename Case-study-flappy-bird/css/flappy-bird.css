@@ -1,0 +1,10 @@
+
+.my_canvas {
+    border: solid white 5px;
+    margin-top: 100px;
+}
+
+.body {
+    text-align: center;
+    background-image: url("/Case-study-flappy-bird/image-va-audio/back-ground.jpg");
+}
